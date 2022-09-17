@@ -1,5 +1,7 @@
 # NMLBot
 
+![nmlbot](https://i.imgur.com/F2WQZPA.png)
+
 NMLBot (Notion Movie List Bot) is a telegram bot that can help you build your own movie list in Notion.
 
 https://t.me/notion_movie_list_bot
